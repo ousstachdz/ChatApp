@@ -83,7 +83,7 @@ DATABASES = {
 
         'ENGINE': 'django.db.backends.postgresql',
 
-        'NAME': 'chatapp',
+        'NAME': 'chat',
 
         'USER': 'postgres',
 
